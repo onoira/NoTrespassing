@@ -8,8 +8,8 @@
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <GenerateDependencyFile>false</GenerateDependencyFile>
 
-        <AssemblyName>ModTemplate</AssemblyName>
-        <RootNamespace>$(AssemblyName)</RootNamespace>
+        <AssemblyName>NoTrespassing</AssemblyName>
+        <RootNamespace>NoTrespassingMod</RootNamespace>
         <OutputPath>../Mod/$(AssemblyName)</OutputPath>
         <VersionPrefix>0.1.0.0</VersionPrefix>
     </PropertyGroup>
